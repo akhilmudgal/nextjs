@@ -18,9 +18,9 @@ const Home = () => (
 
       <div className="grid">
         <a href="#" className="card">
-          <h3>Services Offered: &rarr;</h3>
-          <p>Self Ligating (Friction Free)</p>
-           <p>Metal Braces</p>
+          <h3>Services Offered &rarr;</h3>
+          <p>&#x2713; Self Ligating (Friction Free)</p>
+           <p>&#x2713; Metal Braces</p>
         </a>
 
         <a href="https://nextjs.org/learn" className="card">
