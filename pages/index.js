@@ -21,19 +21,20 @@ const Home = () => (
           <h3>Services Offered &rarr;</h3>
           <p>&#x2713; Self Ligating (Friction Free)</p>
            <p>&#x2713; Metal Braces</p>
+           <p>&#x2713; Ceramic Braces</p>
+           <p>&#x2713; Lingual Braces</p>
+           <p>&#x2713; Clear Aligners</p>
+            
         </a>
 
-        <a href="https://nextjs.org/learn" className="card">
-          <h3>Learn &rarr;</h3>
-          <p>Learn about Next.js in an interactive course with quizzes!</p>
+        <a href="#" className="card">
+          <h3>Address &rarr;</h3>
+          <p>khushi towar, Old Jhanwar Rd,Birla School Rd, Vinayak Nagar, Bhadu Market, Jodhpur, Rajasthan 342008</p>
         </a>
 
-        <a
-          href="https://github.com/zeit/next.js/tree/master/examples"
-          className="card"
-        >
-          <h3>Examples &rarr;</h3>
-          <p>Discover and deploy boilerplate example Next.js projects.</p>
+        <a href="#" className="card">
+          <h3>Contact Details &rarr;</h3>
+          <p>094138 41697</p>
         </a>
 
         <a
